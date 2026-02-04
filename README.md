@@ -47,3 +47,7 @@ Then open `http://127.0.0.1:5000` in your browser.
 ## Notes
 - The app runs in debug mode by default (`app.run(debug=True)`).
 - Feature extraction uses live HTTP requests; some URLs may block requests or respond slowly.
+
+- ## Contributing
+
+- Feel free to open issues or submit pull requests if you would like to contribute to this project.
